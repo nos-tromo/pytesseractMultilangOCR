@@ -3,7 +3,7 @@
 # download tessdata from https://tesseract-ocr.github.io/tessdoc/Data-Files.html and store in tesseract directory
 # input data and output directory
 # language code
-# see the tesseract documentation
+# see tesseract documentation
 
 
 import os
